@@ -1,7 +1,7 @@
 # Java_alapok
 Java nyelv alapjai, egyszerű magyarázattal.
 FONTOS kiemelni, hogy ezek nem hivatalos definíciók, csupán a megértést próbálják meg segíteni.
-Hibák lehetnek benne, ha találnál ilyet, jelezd a m.me/hexa.ik felületen.
+Hibák lehetnek benne, ha találnál ilyet, jelezd a https://m.me/hexa.ik felületen.
 Ez az összeállítás a teljesség igénye nélkül készült, ha esetleg felmerül még kérdés bármelyik résszel kapcsolatban, az előbb említett link-en keresztül vedd fel velem a kapcsolatot, és megpróbálok segíteni.  
   
 Pár rész, ami önálló utánaolvasást igényel, ezek fedezését akár személyes konzultáció során is tudom vállalni:  
